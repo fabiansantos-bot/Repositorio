@@ -8,3 +8,4 @@ rem ========== Uninstall the individual product ==========
 
 rem ========== Uninstall Autodesk Revit 2027
 rem "\\172.26.14.41\Servicios_Tecnologia\Software Centros de Computo\ImagenAutoDesk\image\Installer.exe" -i uninstall -q --manifest "\\172.26.14.41\Servicios_Tecnologia\Software Centros de Computo\ImagenAutoDesk\image\RVT_2027_es-ES\setup.xml" --extension_manifest "\\172.26.14.41\Servicios_Tecnologia\Software Centros de Computo\ImagenAutoDesk\image\RVT_2027_es-ES\setup_ext.xml"
+
